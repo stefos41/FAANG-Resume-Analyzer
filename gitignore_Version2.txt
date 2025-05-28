@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# Logs
+*.log
+
+# PyInstaller
+*.spec
+
+# Coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+.cache/
+coverage.xml
+
+# MyPy
+.mypy_cache/
+
+# Pyre type checker
+.pyre/
+
+# Test output
+nosetests.xml
+test-results/
+
+# PDF/DOCX/TXT resume uploads or outputs
+*.pdf
+*.docx
+*.txt
+
+# Misc
+*.bak
+*.swp
+*~
