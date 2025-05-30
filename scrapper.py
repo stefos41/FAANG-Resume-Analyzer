@@ -14,7 +14,7 @@ JOB_CACHE_FILE = "data/job_cache.json"
 
 def scrape_amazon_jobs(query: str = "SDE intern") -> List[Dict]:
     """Scrape Amazon Jobs API (public)"""
-    url = "https://www.amazon.jobs/en/search.json"
+    url = "https://www.amazon.jobs/en/search.json" #Can add url of different company job sites
     params = {"keywords": query, "offset": 0, "count": 10}
     
     try:
@@ -24,7 +24,7 @@ def scrape_amazon_jobs(query: str = "SDE intern") -> List[Dict]:
             "company": "Amazon",
             "title": job["title"],
             "text": job["description"],
-            "url": f"https://www.amazon.jobs{job['job_path']}",
+            "url": f"https://www.amazon.jobs{job['job_path']}", #Can add url of different company job sites
             "location": job["location"]
         } for job in response.json().get("jobs", [])]
     except Exception as e:
