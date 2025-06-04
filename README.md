@@ -1,4 +1,4 @@
-![FAANG Resume Optimizer Screenshot](image1)
+![FAANG Resume Optimizer Screenshot](looks)
 
 # 🚀 FAANG Resume Analyzer
 
