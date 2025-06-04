@@ -1,3 +1,5 @@
+![FAANG Resume Optimizer Screenshot](image1)
+
 # 🚀 FAANG Resume Analyzer
 
 Welcome to the **FAANG Resume Analyzer** — your personal AI-powered toolkit for getting your resume FAANG-ready! Whether you’re aiming for Facebook, Amazon, Apple, Netflix, Google, or any top-tier tech company, this project will help you stand out from the crowd.
