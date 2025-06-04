@@ -1,4 +1,5 @@
-![FAANG Resume Optimizer Screenshot](looks)
+![looks](https://github.com/user-attachments/assets/1985d647-ef03-4644-b53e-8f5461ba1b26)
+
 
 # 🚀 FAANG Resume Analyzer
 
